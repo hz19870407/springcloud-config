@@ -1,2 +1,2 @@
 config:
-  info: config-prod.yml
+  info: develop-config-prod.yml
