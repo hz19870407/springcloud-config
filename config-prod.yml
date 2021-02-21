@@ -1,2 +1,2 @@
-server:
-  port: 333444
+config:
+  info: develop-config-prod.yml
